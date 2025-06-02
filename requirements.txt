@@ -1,11 +1,7 @@
-
+numpy==1.23.5
+pybind11>=2.12
 basicsr
 facexlib
 gfpgan
-pybind11>=2.12
-numpy==1.23.5
-opencv-python
-Pillow
-torch>=1.7
-torchvision
-tqdm
+torch==2.0.1
+torchvision==0.15.2
